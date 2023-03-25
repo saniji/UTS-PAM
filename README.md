@@ -1,5 +1,5 @@
-<Nama : Edo Sani/p>
-<NIM : 120140179/p>
+<p>Nama : Edo Sani</p>
+<p>NIM : 120140179</p>
 
 ## Detective Valo
 
