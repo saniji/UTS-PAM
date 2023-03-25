@@ -7,8 +7,8 @@ Aplikasi ini dibuat dengan tujuan mencari rank akun player dengan memasukkan use
 
 ## Tampilan Awal Aplikasi
 
-![Tampilan Awal](https://github.com/saniji/UTS-PAM/blob/fc96f4ea57cef27086c22e788b2931b5d827d90d/Tampilan_hasil.jpg)
+![Tampilan Awal](https://github.com/saniji/UTS-PAM/blob/fc96f4ea57cef27086c22e788b2931b5d827d90d/Tampilan_awal.jpg)
 
 ## Tampilan Hasil Pencarian
 
-![Tampilan Hasil](https://github.com/saniji/UTS-PAM/blob/fc96f4ea57cef27086c22e788b2931b5d827d90d/Tampilan_awal.jpg)
+![Tampilan Hasil](https://github.com/saniji/UTS-PAM/blob/fc96f4ea57cef27086c22e788b2931b5d827d90d/Tampilan_hasil.jpg)
